@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بريد الجمعة</string>
+    <color name="splash_bg">#241A38</color>
+    <style name="Theme.FridayMail" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">@color/splash_bg</item>
+    </style>
+</resources>
